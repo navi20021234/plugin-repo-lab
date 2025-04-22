@@ -5,6 +5,11 @@
   },
 
   {
+    "name": "Navini Plugin",
+    "entry": "./plugins/navini-plugin/plugin.js"
+  },
+
+  {
     "name": "Conflit Plugin",
     "entry": "./plugins/conflit-plugin/plugin.js"
   }
